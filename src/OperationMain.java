@@ -19,5 +19,13 @@ public class OperationMain {
 		//creating object for uc_1_3
 		UC_1_3 uc_1_3 = new UC_1_3();
 		uc_1_3.numberList();
+		
+		System.out.println("");
+		System.out.println("");
+		System.out.println("from uc3 class");
+		//creating object for uc_1_4
+		UC_1_4 uc_1_4=new UC_1_4();
+		uc_1_4.printDoubleList();
+		
 	}
 }
